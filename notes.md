@@ -7,17 +7,32 @@ Open16S - Bioinformatique
 ===
 
 
-# Introduction
+## Introduction
 
 Ce document permet d'organiser le travail et les prises de notes du WP2 du projet MICA Open16S
 
-# WP2 : Pipelines bioinfo et bases de données d’assignation taxonomique
+## WP1 : Constituer et évaluer les jeux de données, évaluer leur pertinence
 
-## Livrable 1 : Définition d’un environnement de travail reproductible
+Livrable 1 : Sources des données, critères de choix des jeux de données à utiliser
+Livrable 2 : Liste des écosystèmes et des jeux de données à sélectionner, INRAE ou non
+Livrable 3 : Liste des Métadonnées à collecter
+Livrable 4 : Critères pour évaluer la représentativité des jeux de données par écosystème
+
+### Différences entre jeux de données impactant les analyses
+
+- [x] Technologie de séquençage
+- [x] Profondeur de séquençage
+- [x] Primers utilisés
+
+
+
+## WP2 : Pipelines bioinfo et bases de données d’assignation taxonomique
+
+### Livrable 1 : Définition d’un environnement de travail reproductible
 
 Il est indispensable de travailler dans un environnement figé pour permettre à la fois la reproductibilité des analyses et éviter les soucis liés aux dépendances de packages R (entre autres) qui font planter les pipelines.
 
-## Livrable 2 : Définition d’un pipeline bioinfo jusqu'à la table de comptage
+### Livrable 2 : Définition d’un pipeline bioinfo jusqu'à la table de comptage
 
 ```graphviz
 digraph hierarchy {
