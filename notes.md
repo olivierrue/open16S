@@ -1,6 +1,7 @@
 ---
 title: 'Open16S - Bioinformatique'
 disqus: hackmd
+image: https://hackmd.io/screenshot.png
 ---
 
 Open16S - Bioinformatique
@@ -8,11 +9,18 @@ Open16S - Bioinformatique
 
 > Author : orue 
 
+
 https://demo.hedgedoc.org/features?both#
 
 ## Introduction
 
 Ce document permet d'organiser le travail et les prises de notes du WP2 du projet MICA Open16S
+
+### Organisation
+
+* Forge :
+* Répertoires de travail :
+* 
 
 ## WP1 : Constituer et évaluer les jeux de données, évaluer leur pertinence
 
